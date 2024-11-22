@@ -1,1 +1,2 @@
 Ini adalah baris pertama original
+ini baris kedua yang ditambahlan dari vscode
